@@ -1,0 +1,16 @@
+// See? Bootstrap is here if you want it
+$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+// See? SCSS is here if you want it
+.example-header {
+  text-align: center;
+  .example-header-title {
+    display: block;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .example-header-logo {
+    height: 50px;
+  }
+}
